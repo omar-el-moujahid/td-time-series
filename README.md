@@ -14,11 +14,3 @@ A small automated pipeline that collects 90 days of atmospheric CO2 data, checks
 ## Run the pipeline
 
 Open the **Actions** tab, choose **Update analysis**, then click **Run workflow**.
-
-## Limits
-
-The data comes from a model, not from a physical sensor. CO2 also follows a yearly cycle, so the straight-line projection is only useful for a few days.
-
-## Reflections
-
-See [REFLECTIONS.md](REFLECTIONS.md).
